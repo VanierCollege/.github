@@ -14,3 +14,7 @@ Specific Classes also have their own teams for access to all my classwork/homewo
 | Access Role | Description |
 | ----------- | ----------- |
 [@VanierCollege/programming-1-access](https://github.com/orgs/VanierCollege/teams/programming-1-access) | Access to repositories for `Programming 1`
+
+
+### Accessing Organization
+To access this place (Organization) you must send me a `MIO` with your GitHub username for things to work. Requests on any other platform will be ignored.
